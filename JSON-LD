@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://Blinkinfinity999-sudo.github.io/Fervox_vs_OtherAIs/#product",
+      "name": "Fervox AI",
+      "description": "An ultra-fast, modular, Bring-Your-Own-Key AI workspace designed for power users.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Fervox"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://Blinkinfinity999-sudo.github.io/Fervox_vs_OtherAIs/#website",
+      "url": "https://Blinkinfinity999-sudo.github.io/Fervox_vs_OtherAIs",
+      "name": "Fervox AI",
+      "description": "Independent high-speed AI developer client routing directly to edge endpoints.",
+      "publisher": {
+        "@type": "Person",
+        "name": "Rage Infinity"
+      }
+    }
+  ]
+}
+</script>
